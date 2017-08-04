@@ -2,9 +2,11 @@
 Redesigned the A-Z Lyrics Home Page, one lyrics page, and one artist page using HTML, CSS, and Javascript.
 
 Home Page:
+![Home page screenshot](/demo/homepage-new.png?raw=true "Home Page")
 
 
 Lyrics Page:
+![Lyrics page screenshot](/demo/lyrics-page-new.png?raw=true "Home Page")
 
 
 Artist Page:
