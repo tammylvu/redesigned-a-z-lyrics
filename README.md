@@ -25,3 +25,5 @@ Artist Page:
 
 Designed by Tammy Vu, Leonard Qian, Sandy Zhang, and Lulu Hoffman.
 
+See click-through of some other functionality:
+https://youtu.be/3AN_moHRxYs
