@@ -12,3 +12,5 @@ Lyrics Page:
 Artist Page:
 ![Artist page demo](/demo/artist-page-1.png?raw=true "Artist Page")
 ![Artist page 2 demo](/demo/artist-page-2.png?raw=true "Artist Page 2")
+
+Designed by Tammy Vu, Leonard Qian, Sandy Zhang, and Lulu Hoffman.
